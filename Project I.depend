@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1538325772 source:f:\onedrive - hanoi university of science and technology\it\project i\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"variables.h"
+	"main.h"
+	"menu.h"
+	"encryption.h"
+	"decryption.h"
+	"setupkey.h"
+
+1538300706 f:\onedrive - hanoi university of science and technology\it\project i\menu.h
+
+1539093963 source:f:\onedrive - hanoi university of science and technology\it\project i\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"variables.h"
+	"main.h"
+	"menu.h"
+	"encryption.h"
+	"decryption.h"
+	"setupkey.h"
+
+1538355052 source:f:\onedrive - hanoi university of science and technology\it\project i\decryption.c
+	<stdio.h>
+	<stdlib.h>
+	"variables.h"
+	"main.h"
+	"menu.h"
+	"encryption.h"
+	"decryption.h"
+	"setupkey.h"
+
+1538354812 source:f:\onedrive - hanoi university of science and technology\it\project i\encryption.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"variables.h"
+	"main.h"
+	"menu.h"
+	"encryption.h"
+	"decryption.h"
+	"setupkey.h"
+
+1538300384 f:\onedrive - hanoi university of science and technology\it\project i\variables.c
+
+1538300399 f:\onedrive - hanoi university of science and technology\it\project i\main.h
+
+1538322374 f:\onedrive - hanoi university of science and technology\it\project i\encryption.h
+
+1538322830 f:\onedrive - hanoi university of science and technology\it\project i\decryption.h
+
+1539094192 f:\onedrive - hanoi university of science and technology\it\project i\setupkey.h
+
+1538300384 source:f:\onedrive - hanoi university of science and technology\it\project i\variables.c
+
+1539401160 source:f:\onedrive - hanoi university of science and technology\it\project i\setupkey.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variables.h"
+	"main.h"
+	"menu.h"
+	"encryption.h"
+	"decryption.h"
+	"setupkey.h"
+
+1538876161 f:\onedrive - hanoi university of science and technology\it\project i\variables.h
+
